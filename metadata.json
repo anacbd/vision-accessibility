@@ -1,0 +1,7 @@
+{
+  "name": "Vision Accessibility Assistant",
+  "description": "Assistente de Acessibilidade em Tempo Real com Visão Computacional e Gemini",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
